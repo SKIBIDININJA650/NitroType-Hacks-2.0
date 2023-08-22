@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Ziahz Typer
+// @name         Nitro TYPER BOT
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  HAVE THE BEST DAY OF YOUR LIFE HAHAHAHA!
