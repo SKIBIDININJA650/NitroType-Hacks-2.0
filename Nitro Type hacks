@@ -10,8 +10,8 @@
 // @grant        none
 // @run-at           document-start
 // ==/UserScript==
-var wpm = 75;
-var accuracy = 100;
+var wpm = 120;
+var accuracy = 91;
 const sockets = [];
 const nativeWebSocket = window.WebSocket;
 window.WebSocket = function(...args){
